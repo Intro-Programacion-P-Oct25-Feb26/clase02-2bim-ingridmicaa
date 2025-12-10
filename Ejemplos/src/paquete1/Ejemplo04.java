@@ -20,8 +20,10 @@ public class Ejemplo04 {
         // arreglo de tipo entero
         // int[] arreglo1 = new int[5];
         int[] arreglo1 = {1000, 1, 2, 2000, 300};
-        // System.out.println(arreglo1.length);
+        // System.out.println(arreglo1.length); 
         // arreglo1[2] = 1000;
+        // lenght sustituye al indice que es en miniespecificación explicando 
+        // cuantas posiciones tiene 
         for (int i = 0; i < arreglo1.length; i++) {
             System.out.printf("Subíndice o Índice %d, con valor %d\n",
                     i, arreglo1[i]);

@@ -23,7 +23,7 @@ public class Ejemplo01 {
         // arreglo de tipo double
         double[] arreglo2 = new double[5];
 
-        // arreglo de tipo char
+        // arreglo de tipo char parecido al String
         char[] arreglo3 = new char[5];
 
         // arreglo de tipo String
